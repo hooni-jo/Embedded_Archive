@@ -1,0 +1,9 @@
+../Core/Src/ssd1322.c:16:6:SSD1322_HW_Reset	1
+../Core/Src/ssd1322.c:23:6:OLED_WriteCmd	2
+../Core/Src/ssd1322.c:31:6:OLED_WriteData	2
+../Core/Src/ssd1322.c:39:6:SSD1322_Init	1
+../Core/Src/ssd1322.c:60:6:SSD1322_Clear	1
+../Core/Src/ssd1322.c:64:6:SSD1322_DrawPixel	4
+../Core/Src/ssd1322.c:71:6:SSD1322_Update	2
+../Core/Src/ssd1322.c:82:6:SSD1322_PutChar	6
+../Core/Src/ssd1322.c:93:6:SSD1322_PutString	3

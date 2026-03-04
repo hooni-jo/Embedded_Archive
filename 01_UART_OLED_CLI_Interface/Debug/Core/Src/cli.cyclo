@@ -1,0 +1,11 @@
+../Core/Src/cli.c:49:13:add_to_history	4
+../Core/Src/cli.c:59:13:cli_play	1
+../Core/Src/cli.c:66:6:CLI_Init	1
+../Core/Src/cli.c:74:6:CLI_HistoryNavigate	9
+../Core/Src/cli.c:102:6:CLI_Process	8
+../Core/Src/cli.c:139:6:CLI_TabAutocomplete	8
+../Core/Src/cli.c:181:13:cli_help	2
+../Core/Src/cli.c:190:13:cli_history	2
+../Core/Src/cli.c:201:13:cli_led	2
+../Core/Src/cli.c:215:13:cli_buzzer	2
+../Core/Src/cli.c:228:13:cli_cls	1

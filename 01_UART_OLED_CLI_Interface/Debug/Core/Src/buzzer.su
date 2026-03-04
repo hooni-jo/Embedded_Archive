@@ -1,0 +1,5 @@
+../Core/Src/buzzer.c:12:6:Buzzer_SetFrequency	24	static
+../Core/Src/buzzer.c:30:6:Buzzer_PlayScale	56	static
+../Core/Src/buzzer.c:41:6:Buzzer_Control	16	static
+../Core/Src/buzzer.c:49:6:Buzzer_On	8	static
+../Core/Src/buzzer.c:54:6:Buzzer_Off	8	static
