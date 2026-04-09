@@ -1,0 +1,14 @@
+# AI의 검색 범위에서 제외할 폴더들
+Drivers/
+Middlewares/
+Debug/
+Release/
+.settings/
+*.list
+*.map
+*.hex
+*.bin
+
+# 오직 Core 폴더만 집중하도록 설정 (필요 시)
+!Core/Inc/
+!Core/Src/

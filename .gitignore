@@ -1,0 +1,15 @@
+# STM32 빌드 결과물 제외
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.list
+*.map
+
+# OS 및 IDE 설정 제외
+.settings/
+.metadata/
+Binaries/
